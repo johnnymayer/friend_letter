@@ -1,8 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/kozmiq/.dotnet/store/|arch|/|tfm|",
-      "/home/kozmiq/.nuget/packages"
+      "/Users/johnnymayer/.nuget/packages"
     ]
   }
 }

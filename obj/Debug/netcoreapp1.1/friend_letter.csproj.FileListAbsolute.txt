@@ -8,3 +8,12 @@
 /home/kozmiq/Desktop/PROJECTS/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.pdb
 /home/kozmiq/Desktop/PROJECTS/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.dll
 /home/kozmiq/Desktop/PROJECTS/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.pdb
+/Users/johnnymayer/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.deps.json
+/Users/johnnymayer/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.json
+/Users/johnnymayer/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.dev.json
+/Users/johnnymayer/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.dll
+/Users/johnnymayer/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.pdb
+/Users/johnnymayer/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.csproj.CoreCompileInputs.cache
+/Users/johnnymayer/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.AssemblyInfo.cs
+/Users/johnnymayer/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.dll
+/Users/johnnymayer/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.pdb
