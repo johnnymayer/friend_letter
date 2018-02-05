@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FriendLetter.Controllers
 {
-    public class HomeControler : Controller
+    public class HomeController : Controller
     {
         [Route("/hello")]
         public string Hello() { return "Henlo fren!"; }
